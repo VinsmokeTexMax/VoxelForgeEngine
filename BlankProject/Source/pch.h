@@ -8,3 +8,4 @@
 #define HInstance() GetModuleHandle(NULL)
 
 #include "VoxelForge.h"
+#include "Common/Logger.h"

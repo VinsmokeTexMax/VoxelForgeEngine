@@ -11,6 +11,7 @@ public:
 	virtual ~IApplication() {}; // Destructor
 
 public:
+	virtual VOID SetupPerGameSettings() = 0; // Setup Per Game Settings
 	virtual VOID Initialize() = 0; // Initialize Application
 	virtual VOID Update() = 0; // Game loop
 };

@@ -11,6 +11,7 @@ public:
 	~Application(); // Destructor
 
 public:
+	VOID SetupPerGameSettings(); // Setup Per Game Settings
 	VOID Initialize(); // Initialize Application
 	VOID Update(); // Game loop
 };

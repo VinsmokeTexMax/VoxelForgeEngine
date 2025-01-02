@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>C:\Users\Santiago M\Desktop\Code\Personal\VoxelForgeEngine\Build\VoxelForge\Debug\VoxelForge.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Users\Santiago M\Desktop\Code\Personal\VoxelForgeEngine\Build\BlankProject\Debug\BlankProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

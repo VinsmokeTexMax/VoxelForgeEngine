@@ -1,4 +1,5 @@
 ﻿  WinMain.cpp
+  pch.cpp
   BlankProject.vcxproj -> C:\Users\Santiago M\Desktop\Code\Personal\VoxelForgeEngine\Build\BlankProject\Debug\BlankProject.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
